@@ -1,3 +1,0 @@
-notes
----------
-Apka na zápis a ukladanie krátkych poznámok
