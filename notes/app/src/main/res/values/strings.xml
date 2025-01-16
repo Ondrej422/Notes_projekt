@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="enter_your_note">Enter your note</string>
+    <string name="save">Save</string>
+    <string name="view_notes">View Notes</string>
+    <string name="edit_your_note">Edit your note</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>
